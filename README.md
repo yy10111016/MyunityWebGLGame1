@@ -1,1 +1,4 @@
-# MyunityWebGLGame1
+MyunityWebGLGame1/
+├── index.html        
+├── Build/            
+└── TemplateData/     
